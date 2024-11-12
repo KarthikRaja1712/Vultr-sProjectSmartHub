@@ -21,14 +21,14 @@ Features
 
 Installation
 Windows Installation
-1.	Download the Windows Installer (.exe file) from the GitHub Releases section of this repository path is Built build\windows\x64\runner\Release\vultr.exe.
+1.	Download the Windows Installer (.exe file) from the GitHub Releases section of this repository
 2.	Run the installer and follow the on-screen instructions to complete the setup.
 3.	Once installed, open the application and log in or sign up to start exploring WellSphere.
 
 
 
 Android Installation
-1.	Download the Android APK file from the GitHub Releases section path is Built build\app\outputs\flutter-apk\app-release.apk (19.8MB)
+1.	Download the Android APK file from the GitHub Releases section
 2.	On your Android device, go to Settings > Security, and enable Install from Unknown Sources.
 3.	Open the downloaded APK file and follow the prompts to install WellSphere.
 4.	Launch the app, log in or sign up, and enjoy the features.
